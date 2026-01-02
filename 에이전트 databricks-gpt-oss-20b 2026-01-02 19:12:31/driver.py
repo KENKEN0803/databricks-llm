@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC #Tool-calling Agent!!
+# MAGIC #Tool-calling Agent
 # MAGIC
 # MAGIC This is an auto-generated notebook created by an AI playground export. In this notebook, you will:
 # MAGIC - Author a tool-calling [MLflow's `ResponsesAgent`](https://mlflow.org/docs/latest/api_reference/python_api/mlflow.pyfunc.html#mlflow.pyfunc.ResponsesAgent) that uses the OpenAI client
@@ -57,7 +57,7 @@
 # MAGIC ############################################
 # MAGIC # Define your LLM endpoint and system prompt
 # MAGIC ############################################
-# MAGIC LLM_ENDPOINT_NAME = "databricks-gpt-5-2"
+# MAGIC LLM_ENDPOINT_NAME = "databricks-gpt-oss-20b"
 # MAGIC
 # MAGIC SYSTEM_PROMPT = """"""
 # MAGIC
